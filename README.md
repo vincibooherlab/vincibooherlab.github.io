@@ -4,6 +4,7 @@ https://vincibooherlab.github.io/
 
 ## Editing information
 
+* [Config file](config.toml)
 * [Landing page](content/_index.md)
 * [Institutions map](data/map.toml)
 * [Research/grants](content/research/_index.md)
