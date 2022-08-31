@@ -32,7 +32,7 @@ path = "github.com/gohugoio/hugo-mod-bootstrap-scss/v5"
   googleMaps = ""
   googleTagManagerID = ""
 
-  title = "Perception, Action, & Learning Lab"
+  title = "PAL Lab"
 
   [params.logo]
     img = "/img/pestillilab-01.svg"
